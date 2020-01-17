@@ -4555,6 +4555,10 @@ tbody.collapse.show {
   border-radius: 0 0 calc(0.25rem - 1px) calc(0.25rem - 1px);
 }
 
+
+
+
+
 .card-header-tabs {
   margin-right: -0.625rem;
   margin-bottom: -0.75rem;
@@ -9279,3 +9283,9 @@ body {
 .btn-outline-primary:hover {
   color: #fff;
 }
+
+
+
+
+
+
